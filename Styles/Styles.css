@@ -1,0 +1,51 @@
+.navbarText{
+    margin-left: 44px;
+    margin-right: 44px;
+    font-size: 30px;
+}
+.titleColor{
+    color: brown;
+    font-weight: 300;
+}
+#disabledCol{
+    color:red;
+}
+
+.navbar:hover{
+
+}
+.containerNav{
+
+}
+.DivColor{
+    background-color: blueviolet;
+}
+
+.titleHeader{
+    height: 200px;
+    background-color: #D9D9D9;
+}
+
+
+.imageDogs{
+    width: 100%;
+}
+
+.fontP{
+    font-weight: bold;
+    font-size: 34px;
+}
+
+.borderCon{
+    border: solid;
+}
+
+.bgCon{
+    background-color: blueviolet;
+    padding-top: 3%;        
+}
+
+.justifyBtn{
+    display: flex;
+    justify-content: flex-end;
+}
